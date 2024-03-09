@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! I'm Joey. Check out what I've worked on in my pinned repositories below!
 
 <!--
 **jo3y49/jo3y49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
